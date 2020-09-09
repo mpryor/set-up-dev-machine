@@ -1,1 +1,1 @@
-sudo apt install ansible -y && sudo apt install git -y && git clone https://github.com/mpryor/ansible-playbooks
+sudo apt install ansible -y && sudo apt install git -y && git clone git@github.com:mpryor/ansible-playbooks.git
